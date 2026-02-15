@@ -1,7 +1,7 @@
 
  <div>
-   <a href="https://github.com/DanielaOliveiraDsg"></a>
-   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg' />
+   <a href="https://github.com/DanielaOliveiraDsg">&#128105</a>
+   
  </div>
     
 <div style="display: inline_block"><br>
